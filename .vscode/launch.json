@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "arrow_pattern",
+            "request": "launch",
+            "mainClass": "patterns.arrow_pattern",
+            "projectName": "basic_java_57f5312b"
+        },
+        {
+            "type": "java",
+            "name": "v_space_number_pattern",
+            "request": "launch",
+            "mainClass": "patterns.v_space_number_pattern",
+            "projectName": "basic_java_57f5312b"
+        },
+        {
+            "type": "java",
+            "name": "diamond_number_pattern",
+            "request": "launch",
+            "mainClass": "patterns.diamond_number_pattern",
+            "projectName": "basic_java_57f5312b"
+        },
+        {
+            "type": "java",
+            "name": "diagonal_pattern",
+            "request": "launch",
+            "mainClass": "patterns.diagonal_pattern",
+            "projectName": "basic_java_57f5312b"
+        },
+        {
+            "type": "java",
+            "name": "hollow_diamond",
+            "request": "launch",
+            "mainClass": "patterns.hollow_diamond",
+            "projectName": "basic_java_57f5312b"
+        },
+        {
+            "type": "java",
+            "name": "cross_pattern",
+            "request": "launch",
+            "mainClass": "patterns.cross_pattern",
+            "projectName": "basic_java_57f5312b"
+        },
+        {
+            "type": "java",
+            "name": "benjamin",
+            "request": "launch",
+            "mainClass": "benjamin",
+            "projectName": "basic_java_57f5312b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Digits_of_a_Number",
+            "request": "launch",
+            "mainClass": "Digits_of_a_Number",
+            "projectName": "basic_java_57f5312b"
+        },
+        {
+            "type": "java",
+            "name": "Inverse_of_a_number",
+            "request": "launch",
+            "mainClass": "Inverse_of_a_number",
+            "projectName": "basic_java_57f5312b"
+        },
+        {
+            "type": "java",
+            "name": "Rotate_a_number",
+            "request": "launch",
+            "mainClass": "Rotate_a_number",
+            "projectName": "basic_java_57f5312b"
+        },
+        {
+            "type": "java",
+            "name": "gcd_lcm",
+            "request": "launch",
+            "mainClass": "gcd_lcm",
+            "projectName": "basic_java_57f5312b"
+        },
+        {
+            "type": "java",
+            "name": "takeUserInput",
+            "request": "launch",
+            "mainClass": "takeUserInput",
+            "projectName": "basic_java_57f5312b"
+        }
+    ]
+}
